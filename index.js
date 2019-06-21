@@ -18,7 +18,6 @@ const Luis = require('luis-sdk-async');
 // or `bot.something`, this is what we're refering to. Your client.
 const client = new Discord.Client();
 
-const luis = new Luis("1241f3f8-9ada-46e3-8fe8-661ca064e54b", "022fd9ad47fc4c7e99f1d5649baa6b4f");
 
 // client is an instance of Discord.Client
 
