@@ -34,7 +34,6 @@
     "discord.js-minesweeper": "^1.0.4-b",
     "ejs": "^2.6.1",
     "enmap": "^4.8.2",
-    "enmap-level": "^2.1.0",
     "express": "^4.16.4",
     "express-passport": "^0.1.0",
     "express-session": "^1.15.6",
