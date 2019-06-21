@@ -3,14 +3,6 @@ const config = {
   "admins": [],
   "support": [],
   "token": process.env.BOT_TOKEN,
-  "dashboard" : {
-    "oauthSecret": "Xkn2u_Lbjb5IIDhxnO_tA3zpUoIVDc5_",
-    "callbackURL": `http:///callback`,
-    "sessionSecret": "testing121",
-    "domain": "",
-    "port": 81
-  },
-  mongo: "mongodb+srv://cluster0-dybso.mongodb.net/test --username Max_Morris121",
   permLevels: [
     { level: 0,
       name: "User", 
